@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\bin\Debug\02.Bunnies.exe.config
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\obj\Debug\02.Bunnies.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\bin\Debug\02.Bunnies.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\bin\Debug\02.Bunnies.pdb
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\obj\Debug\02.Bunnies.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\02.Bunnies\obj\Debug\02.Bunnies.pdb

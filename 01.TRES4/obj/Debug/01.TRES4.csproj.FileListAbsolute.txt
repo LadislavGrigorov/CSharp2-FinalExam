@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\bin\Debug\01.TRES4.exe.config
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\bin\Debug\01.TRES4.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\bin\Debug\01.TRES4.pdb
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\obj\Debug\01.TRES4.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\obj\Debug\01.TRES4.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\01.TRES4\obj\Debug\01.TRES4.pdb

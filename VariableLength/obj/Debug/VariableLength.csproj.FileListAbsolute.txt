@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\bin\Debug\VariableLength.exe.config
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\bin\Debug\VariableLength.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\bin\Debug\VariableLength.pdb
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\obj\Debug\VariableLength.exe
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\obj\Debug\VariableLength.pdb
+D:\Telerik\C# Part 2\Exam22.01.2014\ExamCSharp2\VariableLength\obj\Debug\VariableLength.csprojResolveAssemblyReference.cache
